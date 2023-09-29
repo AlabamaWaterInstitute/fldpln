@@ -45,8 +45,9 @@ We have provided another [Readme](data/data_readme.md) explaining the preprocess
 
 
 # Steps to Run Demo:
-1. Install Matlab or Octave according the versions indicated above.
-We used a Mac and found the hint here handy to configure an alias to run Matlab on the command line. Clone this repository to your computer.<br>
+0. Install Matlab or Octave according the versions indicated above.
+We used a Mac and found the hints [here](https://stackoverflow.com/questions/33187141/how-to-call-matlab-script-from-command-line) handy to configure an alias to run Matlab on the command line.
+1. Clone this repository to your computer.<br>
 ```git clone https://github.com/AlabamaWaterInstitute/fldpln```
 
 2. Download the [Hydroshare resource](https://www.hydroshare.org/resource/2ba43947ef6447beaf055349c883c96e/) and unzip the `Tuscaloosa` folder into the same directory where you have cloned the code.
