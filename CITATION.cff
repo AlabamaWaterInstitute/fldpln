@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: FLDPLN Inudation Mapping
+message: >-
+  We're so glad you are using the FLDPLN application! In
+  your documentation, please cite this work using the
+  metadata from this file.
+type: software
+authors:
+  - name: Kansas Applied Remote Sensing
+  - name: Alabama Water Institute
+  - given-names: Jude
+    family-names: Kastens
+  - given-names: James
+    family-names: Halgren
+  - given-names: Xingong
+    family-names: Li
+  - given-names: Junho
+    family-names: Song
+  - given-names: David Weiss
+repository-code: 'https://github.com/AlabamaWaterInstitute/fldpln'
+abstract: >-
+  FLDPLN (pronounced "Floodplain") is a physically-based
+  computational model for mapping potential inundation
+  extents (floodplains) using gridded topographic data.
+license: MIT
